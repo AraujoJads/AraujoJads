@@ -1,7 +1,7 @@
 <div align="center">
   <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+Devs!;Meu+nome+%C3%A9+Antonio+Alves.;E+bem+vindos+ao+meu+GitHub." alt="Typing SVG" /></p>
 
-<img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAC/gato-digitando.gif" width="400"/>
+<img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAC/gato-digitando.gif" width="400"/></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoJads&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoJads&layout=compact&theme=radical)
