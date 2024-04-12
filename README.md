@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+Devs!;Meu+nome+%C3%A9+Antonio+Alves.;E+bem+vindos+ao+meu+GitHub.)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoJads&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraujoJads&show_icons=true&theme=radical) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoJads&layout=compact&theme=radical)
 
 ## Sobre Mim:
