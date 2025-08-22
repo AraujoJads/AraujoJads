@@ -43,10 +43,10 @@
 
 ## 📬 Contato
 <p>
-  <a href="https://www.linkedin.com/in/antonio-alves" target="_blank">
+  <a href="[https://www.linkedin.com/in/antonio-alves](https://www.linkedin.com/in/antonioalves12/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:antonio.alves@gmail.com">
+  <a href="mailto:antonioalvesaraujobr@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
